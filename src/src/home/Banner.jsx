@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import productData from "../products.json"
 import { Link } from 'react-router-dom'
-import SelectedCategory from '../components/selectedCategory'
+import SelectedCategory from './components/selectedCategory'
 
 const title = (
     <h2>Search Your One From <span>Thousands</span> Of Product</h2>
