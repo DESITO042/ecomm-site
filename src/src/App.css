@@ -1,0 +1,83 @@
+.nav-profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: indigo;
+    cursor: pointer;
+}
+
+
+.page-item{
+    width: 46px;
+    height: 46px;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,.06);
+    background: #fff;
+    color: #101115;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+}
+
+.github{
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    transition: all .3s ease;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: #0F9D58;
+    color: #fff;
+}
+.facebook{
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    transition: all .3s ease;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(45, 45, 94);
+    color: #fff;
+}
+.twitter{
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    transition: all .3s ease;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(127, 182, 255);
+    color: #fff;
+}
+.linkedin{
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    transition: all .3s ease;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: #4d08bd;
+    color: #fff;
+}
+.instagram{
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    transition: all .3s ease;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: #b92c7e;
+    color: #fff;
+}
